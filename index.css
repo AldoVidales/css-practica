@@ -1,0 +1,97 @@
+body{
+    background-color: #ffffff;
+    
+}
+
+.navbar{
+    background-color: #33bdb4;
+    border-color: #19d3c7bd;
+    
+}
+
+.card{
+    width: 30%;
+    font-style: italic;
+    
+}
+
+.card-header{
+    background-color: #89d7dd;
+    
+   
+}
+
+.navbar-brand{
+    font-size: 1.5em;
+    font-weight: 100;
+    color: #000000;
+    background-color: #89d7dd;
+    
+    border-radius: 15px;
+    
+
+    
+}
+
+.Header{
+    
+    font-weight: 100;
+    color: #104fad;
+    width:20%;
+    
+    
+    
+}
+
+
+.body{
+    font-size: 1.5em;
+    font-weight: 100;
+    
+    width:20%;
+
+}
+
+
+
+.icon{
+    font-size: 5rem;
+   color: #bda51d;
+   border: #000000;
+   background-color: #fff1a3;
+    
+    
+    
+}
+.v1{
+    font-size: 1rem;
+    font-weight: 100;
+    color: #104fad;
+    width:20%;
+
+    
+    
+    
+    
+}
+.List{
+    font-size: 2rem;
+    color: #104fad;
+
+}
+
+.down{
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 100;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+}
+
+.sec{
+    color: #05013b;
+    font-size: 1.5rem;
+    font-weight: 100;
+    font-family:comicsansms;
+    
+}
